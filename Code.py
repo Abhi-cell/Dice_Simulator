@@ -1,3 +1,12 @@
+'''
+Author: Abhishek Singh
+Date:  25 April,2020
+Purpose: Dice simulator using Python
+'''
+
+
+
+
 import random 
 import os
 os.system('cls')
